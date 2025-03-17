@@ -1,0 +1,15 @@
+dict = {} #empty  dict 
+
+
+s = set() # emmmmpty  set 
+
+
+
+set = { "apple", "bannna","apple", "bannna","apple", "bannna","apple", "bannna",  } 
+print(set)
+
+
+list = ["apple", "bannna","apple", "bannna","apple", "bannna","apple", "bannna",  ] 
+print(list)
+
+
