@@ -15,7 +15,7 @@ b =  input('enter the your age  :')
 print( a + b )
 
 
-a = 
+a = 2
 
 
 
