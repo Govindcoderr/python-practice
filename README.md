@@ -1,4 +1,4 @@
-# Project Name
+# Basic python for beginner
 
 A brief description of what the project does and its purpose.
 
